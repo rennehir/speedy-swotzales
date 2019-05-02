@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "speedy-swotzales",
-  "alias": "https://speedy-swotzales.now.sh",
+  "alias": "speedy-swotzales",
   "builds": [
     {
       "src": "package.json",
